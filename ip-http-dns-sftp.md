@@ -345,4 +345,6 @@ In the ***beginning*** `days` of the `Internet`, `FTP` (***aka*** `File Transfer
 
 + [How To Use SFTP to Securely Transfer Files with a Remote Server: Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server)
 
++ [What is SSL, TLS? And how this encryption protocol works: CSO](https://www.csoonline.com/article/3246212/what-is-ssl-tls-and-how-this-encryption-protocol-works.html)
+
 </section>
