@@ -1,0 +1,23 @@
+{
+  "name": "ip-http-dns-sftp",
+  "version": "1.0.0",
+  "description": "What IPs, HTTP, DNS, and SFTPs are and what they are for",
+  "main": "index.js",
+  "scripts": {
+    "slides": "npx reveal-md ip-http-dns-sftp.md",
+    "customcss": "npx reveal-md ip-http-dns-sftp.md --css custom.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interglobalmedia/ip-http-dns-sftp.git"
+  },
+  "author": "Maria D. Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interglobalmedia/ip-http-dns-sftp/issues"
+  },
+  "homepage": "https://github.com/interglobalmedia/ip-http-dns-sftp#readme",
+  "devDependencies": {
+    "reveal-md": "^5.0.0"
+  }
+}
